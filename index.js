@@ -22,3 +22,8 @@ function inc(n) {
   return ++n;
 }
 inc(749);
+
+function dec(n) {
+  return --n;
+}
+inc(800);
