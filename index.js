@@ -29,6 +29,7 @@ function dec(n) {
 inc(800);
 
 function makeInt(n) {
-  return parseInt(n);
+  return parseInt(n, 10);
 }
 makeInt("3");
+
