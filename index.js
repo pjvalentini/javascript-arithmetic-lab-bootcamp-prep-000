@@ -36,5 +36,5 @@ makeInt("3");
 function preserveDeciaml(n) {
   return parseFloat(n);
 }
-preserveDeciaml(2.45);
+preserveDeciaml("2.45");
 
