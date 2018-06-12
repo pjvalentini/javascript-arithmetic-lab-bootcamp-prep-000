@@ -27,3 +27,8 @@ function dec(n) {
   return --n;
 }
 inc(800);
+
+function makeInt(n) {
+  return parseInt(n);
+}
+makeInt("3");
