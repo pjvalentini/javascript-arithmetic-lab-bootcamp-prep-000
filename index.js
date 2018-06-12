@@ -13,3 +13,7 @@ function multiply(a, b) {
 }
 multiply(2, 3.4);
 
+function divide(a, b) {
+  return a / b;
+}
+multiply(5.0, 2.5);
