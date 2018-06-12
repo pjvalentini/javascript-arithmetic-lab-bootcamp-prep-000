@@ -21,4 +21,4 @@ multiply(5.0, 2.5);
 function inc(n) {
   return n++;
 }
-inc(4);
+inc(749);
