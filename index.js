@@ -1,4 +1,4 @@
-function add() {
-  return 1 + 81;
+function add(a, b) {
+  return a + b;
 }
-add()
+add(1, 81);
